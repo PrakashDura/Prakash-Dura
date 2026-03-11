@@ -1,8 +1,8 @@
 # 👋 Hello! I'm Prakash
 
-### 📊 Data Science Enthusiast | 💻 Computer Science Master's Student
+### 📊 Data Analyst| 💻 Computer Science Master's Student
 
-I am currently pursuing my Master's degree in Computer Science with a concentration in Data Science at Tennessee State University, expected to graduate in Fall 2024. My journey in data science is fueled by a passion for uncovering insights from data and using them to drive impactful decisions.
+I finished my Master's degree in Computer Science with a concentration in Data Science at Tennessee State University, graduated on May 2025. My journey in data science is fueled by a passion for uncovering insights from data and using them to drive impactful decisions.
 
 - 🔍 I love to explore new technologies and continuously learn to expand my knowledge base.
 - 📈 I have a keen interest in data analysis, machine learning, and artificial intelligence.
